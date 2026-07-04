@@ -1,4 +1,4 @@
-## coding.basics-learning-portfolio
+## cindycoding
 
 Hi! I’m Cindy, a student interested in AI and math
 
